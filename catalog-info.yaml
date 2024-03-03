@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: alx-pre_course
+  annotations:
+    github.com/project-slug: badroouk/alx-pre_course
+spec:
+  type: other
+  lifecycle: unknown
+  owner: badroouk
